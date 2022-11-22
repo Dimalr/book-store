@@ -1,0 +1,4 @@
+{
+  "typescript.validate.enable": false,
+  "editor.rulers": [100]
+}
